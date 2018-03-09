@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LWFPay"
-  s.version      = "1.1"
+  s.version      = "1.2"
   s.summary      = "weme支付用SDK"
   s.description  = <<-DESC
                     功能:登录-支付-常见问题
