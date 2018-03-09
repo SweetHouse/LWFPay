@@ -1,0 +1,6 @@
+framework module WEMESDK {
+  umbrella header "WEMESDK.h"
+
+  export *
+  module * { export * }
+}
